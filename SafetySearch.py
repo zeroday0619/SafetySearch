@@ -60,5 +60,4 @@ class SafetySearch:
 
 
 
-_inst = SafetySearch()
-_inst.adult_filter(search="청소년")
+safesearch = SafetySearch()
